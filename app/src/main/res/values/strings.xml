@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custodian Check</string>
+
+    <!-- Navigation -->
+    <string name="nav_checklists">Checklists</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_setup">Setup</string>
+
+    <!-- Frequencies -->
+    <string name="freq_daily">Daily</string>
+    <string name="freq_weekly">Weekly</string>
+    <string name="freq_monthly">Monthly</string>
+    <string name="filter_all">All</string>
+
+    <!-- Checklist Screen -->
+    <string name="checklist_progress_label">Verified Tasks</string>
+    <string name="btn_complete_save">Complete &amp; Save</string>
+    <string name="btn_finalize_list">Finalize List</string>
+    <string name="btn_add_note_photo">Note / Photo</string>
+    <string name="empty_checklist_title">No tasks configured</string>
+    <string name="empty_checklist_body">Add maintenance items for this schedule in the Setup tab.</string>
+    <string name="action_go_to_setup">Open Setup</string>
+
+    <!-- Evidence Sheet -->
+    <string name="sheet_item_details_title">Task Notes &amp; Photos</string>
+    <string name="label_maintenance_note">Maintenance Note</string>
+    <string name="hint_maintenance_note">Record observations, repairs needed, or supply issues…</string>
+    <string name="btn_take_photo">Take Photo</string>
+    <string name="btn_pick_photo">Choose Photo</string>
+    <string name="btn_save_details">Save Details</string>
+    <string name="cd_remove_photo">Remove photo</string>
+    <string name="cd_attached_photo">Attached maintenance photo</string>
+
+    <!-- Finalize Dialog -->
+    <string name="dialog_finalize_complete_title">Complete Inspection?</string>
+    <string name="dialog_finalize_incomplete_title">Finalize Incomplete List?</string>
+    <string name="label_finalization_note">Finalization Note (Optional)</string>
+    <string name="hint_finalization_note">e.g., Gym floor postponed for school assembly</string>
+    <string name="btn_confirm_save">Save Locally</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="snackbar_saved_report">Inspection saved locally</string>
+    <string name="snackbar_action_pdf">View PDF</string>
+
+    <!-- Reports Screen -->
+    <string name="reports_title">Saved Reports</string>
+    <string name="reports_empty_title">No saved reports yet</string>
+    <string name="reports_empty_body">Completed or finalized Daily, Weekly, and Monthly lists appear here for PDF export, printing, and sharing.</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_finalized_incomplete">Finalized Incomplete</string>
+    <string name="btn_save_pdf">Save PDF</string>
+    <string name="btn_print_pdf">Print</string>
+    <string name="btn_share_pdf">Share</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_delete_report">Delete report</string>
+    <string name="dialog_delete_report_title">Delete Saved Report?</string>
+    <string name="dialog_delete_report_body">This will permanently remove this archived inspection and its saved report data from this device.</string>
+    <string name="btn_delete">Delete</string>
+
+    <!-- Setup Screen -->
+    <string name="setup_title">Setup &amp; Templates</string>
+    <string name="setup_profile_section">School &amp; Custodian Details</string>
+    <string name="label_school_name">School Name</string>
+    <string name="label_custodian_name">Custodian Name</string>
+    <string name="label_campus_name">Building / Campus</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="setup_templates_section">Tick List Templates</string>
+    <string name="btn_add_task">Add Task</string>
+    <string name="btn_restore_defaults">Restore Defaults</string>
+    <string name="dialog_add_task_title">Add Checklist Task</string>
+    <string name="dialog_edit_task_title">Edit Checklist Task</string>
+    <string name="label_task_title">Task Description</string>
+    <string name="label_task_zone">Building Zone / Area</string>
+    <string name="btn_save">Save</string>
+    <string name="dialog_restore_title">Restore Default Template?</string>
+    <string name="dialog_restore_body">This replaces the current %1$s template items with the standard school maintenance checklist. Past saved reports will not be affected.</string>
+    <string name="cd_move_up">Move task up</string>
+    <string name="cd_move_down">Move task down</string>
+    <string name="cd_edit_task">Edit task</string>
+    <string name="cd_delete_task">Delete task</string>
+</resources>

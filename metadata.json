@@ -1,0 +1,6 @@
+{
+  "name": "Custodian Check",
+  "description": "Offline-first school building maintenance checklist app with daily, weekly, and monthly tick lists, item notes, photo attachments, local archiving, and PDF report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
